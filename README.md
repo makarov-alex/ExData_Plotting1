@@ -1,5 +1,9 @@
 #About this repository
 This repository was created for publishing Course Project 1 Assignment from Exploratory Data Analysis Coursera course (part of Data Science specialization). <br/>
+There are 8 files:
+* `Plot1.R`, `Plot2.R`, `Plot3.R`, `Plot4.R` - scripts for plotting graphs <br/>
+* `Plot1.png`, `Plot2.png`, `Plot3.png`, `Plot4.png` - output of scripts (graphs in png format) <br/>
+
 23.07.2016
 
 #Original Readme.MD from rdpeng
