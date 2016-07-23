@@ -1,3 +1,8 @@
+#About this repository
+This repository was created for publishing Course Project 1 Assignment from Exploratory Data Analysis Coursera course (part of Data Science specialization). <br/>
+23.07.2016
+
+#Original Readme.MD from rdpeng
 ## Introduction
 
 This assignment uses data from
